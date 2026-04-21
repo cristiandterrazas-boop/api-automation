@@ -1,3 +1,2 @@
-runners\TestRunner.class
-com\tuempresa\api\AppTest.class
+runners\RunCucumberTest.class
 stepdefinitions\UserSteps.class
